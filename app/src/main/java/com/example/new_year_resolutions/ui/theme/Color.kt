@@ -18,5 +18,5 @@ val Linear2Green=Color(0xFF2EC4B6)
 val Linear2White=Color(0xFFCBF3F0)
 
 val Green1=Color(0xFF2EC4B6)
-val Yellow1= Color(0xFFFFA730)
+val Yellow1= Color(0xFF808000)
 val Green2=Color(0xFF197168)
